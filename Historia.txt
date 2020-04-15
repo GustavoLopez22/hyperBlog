@@ -1,5 +1,6 @@
 Esta es una hisatoria de mi
 
 Gustavo Lopez Sanchez
+28 años
 
 Curso de Git y GitHub
